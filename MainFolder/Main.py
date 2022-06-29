@@ -34,6 +34,7 @@ while True:
     
 
     print("\n")
+    print("© 2022 Naufal Rizqi Ilham Gibran")
     isLanjut = str(input("Lanjut (y/n): "))
     if isLanjut == 'n' or isLanjut == 'N':
         break
