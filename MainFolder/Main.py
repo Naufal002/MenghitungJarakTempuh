@@ -4,7 +4,6 @@ os.system('cls')
 
 '''
     S = V x T
-
 '''
     # FUNTION HERE 
 # ============================================
@@ -23,6 +22,7 @@ def input_user():
     # Count
 def count(kecepatan: int, waktu: int)-> int:
     return (kecepatan*waktu)
+    
 # ==========================================
 
 # to call funtion and input conditional
